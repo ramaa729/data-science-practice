@@ -21,4 +21,4 @@ Repositori ini dibagi menjadi beberapa direktori berdasarkan topik dan tingkat p
 * **Lingkungan Kerja:** VS Code, Jupyter Notebook
 
 ---
-*Dikelola dengan oleh [Muhammad Rama Naradya](https://github.com/ramaa729).*
+*Dikelola oleh [Muhammad Rama Naradya](https://github.com/ramaa729).*
